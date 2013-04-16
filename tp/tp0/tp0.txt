@@ -1,5 +1,3 @@
-test 
-
 TP 0 : Installation d'un environement de developpement
 =====================================================
 Objectif : Préparer notre station de travail
@@ -72,4 +70,3 @@ Résumé   : Installer tout les outils nécéssaires
   * Faire un git commit
   * Faire un git push
   * Aller voir sur votre github pour constater le changement
-
